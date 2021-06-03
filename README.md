@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @poink0411
 - 👀 I’m interested in Minecraft and Java plugins
-- 🌱 I’m currently learning C(I do not like learning C), C#, Java
+- 🌱 I’m currently learning C(I do not like learning C, C#, Java
 - 💞️ I’m looking to collaborate on making Spiggot Plugins
 - 📫 my gmail is poink15701@gmail.com if you need anything ye can always contact anything :)
